@@ -1,0 +1,1022 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A revindication of the anoynting and priviledges of faithfull subjects. Or, A briefe reply to an idle pamphlet, intituled, An answer and confutation of that groundlesse vindication of Psal. 105. 15. (touch not mine anoynted, and do my prophets no harme) from some trayterous exposition of schismaticks: declaring to the world, that this was spoken principally and peculiarly of kings, and not of inferiour subjects, &amp;c. Wherein the insufficiency and ridiculousnesse this Answerers no-answer, is briefly demonstrated, the Vindication justified, and the text of Rom. 13. cleared from some misconstructions (against subjects taking up meere defensive armes in any cases) which the Answerer (out of Dr. Fernes Resolution of conscience, for want of matter of his own) hath thrust upon it, to delude some scrupulous consciences. With a briefe exhortation to peace, with truth, righteousnesse, and holinesse.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91256</idno>
+            <idno type="STC">Wing P4053</idno>
+            <idno type="STC">Thomason E244_40</idno>
+            <idno type="STC">ESTC R212568</idno>
+            <idno type="EEBO-CITATION">99871172</idno>
+            <idno type="PROQUEST">99871172</idno>
+            <idno type="VID">158348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158348)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E244[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A revindication of the anoynting and priviledges of faithfull subjects. Or, A briefe reply to an idle pamphlet, intituled, An answer and confutation of that groundlesse vindication of Psal. 105. 15. (touch not mine anoynted, and do my prophets no harme) from some trayterous exposition of schismaticks: declaring to the world, that this was spoken principally and peculiarly of kings, and not of inferiour subjects, &amp;c. Wherein the insufficiency and ridiculousnesse this Answerers no-answer, is briefly demonstrated, the Vindication justified, and the text of Rom. 13. cleared from some misconstructions (against subjects taking up meere defensive armes in any cases) which the Answerer (out of Dr. Fernes Resolution of conscience, for want of matter of his own) hath thrust upon it, to delude some scrupulous consciences. With a briefe exhortation to peace, with truth, righteousnesse, and holinesse.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Prynne by Wing.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Pagination from McAlpin Collection Catalogue, Union Theological Seminary.</note>
+                  <note>A reply to: The soveraignty of kings.</note>
+                  <note>Annotation on Thomason copy: "Jan: 6th 1642".</note>
+                  <note>Imperfect; heavily trimmed.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soveraignty of kings.</term>
+               <term>Kings and rulers --  Religious aspects --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158348:1" rendition="simple:additions"/>
+            <p>A
+REVINDICATION
+OF THE
+ANOYNTING and PRIVILEDGES
+OF FAITHFULL SUBJECTS.</p>
+            <p>OR,
+<hi>A Briefe</hi> Reply <hi>to an idle Pamphlet, intituled,</hi> An
+Anſwer and Confutation of that groundleſſe Vindication of <hi>Pſal. 105. 15.</hi>
+(Touch not mine Anoynted, and do my Prophets no harme) From ſome
+trayterous Expoſition of Schiſmaticks: Declaring to the World, That this
+was ſpoken principally and peculiarly of Kings, and not of
+inferiour Subjects, &amp;c.</p>
+            <p>Wherein the Inſufficiency and Ridiculouſneſſe this <hi>Anſwerers No-Anſwer,</hi>
+is briefly demonſtrated, the <hi>Vindication</hi> juſtified, and the text of <hi>Rom. 13.</hi>
+cleared from ſome miſconſtructions (againſt ſubjects taking up meere defen<g ref="char:EOLhyphen"/>ſive
+armes in any caſes) which the <hi>Anſwerer</hi> (out of Dr. <hi>Fernes</hi> Reſolution of
+Conſcience, for want of matter of his own) hath thruſt upon it, to
+delude ſome ſcrupulous Conſciences.</p>
+            <p>With a briefe exhortation to <hi>Peace,</hi> with Truth, Righteouſneſſe, and Holineſſe.</p>
+            <q>
+               <bibl>Eſay 10. 27.</bibl>
+               <p>At that day ſhall the burthen be taken away from off thy ſhoulder, and his yoke from off thy
+necke, and the yoke ſhal be deſtroyed becauſe of the ANOINTING.</p>
+            </q>
+            <q>
+               <bibl>Eſther 8. 6.</bibl>
+               <p>For how can I endure to ſee the evill that ſhall come upon my people? Or how can I endure
+to ſee the deſtruction of my kindred?</p>
+            </q>
+            <q>
+               <bibl>Zech. 11. 4, 5.</bibl>
+               <p>Thus ſaith the Lord my God, Feed the Flock of the ſlaughter; whoſe poſſeſſors ſlay them, and
+hold themſelves not guilty: and they that ſell them ſay, Bleſſed be the Lord, for I am
+rich; and their own ſhepheards pitty them not.</p>
+            </q>
+            <q>
+               <bibl>Zech. 8. 19. Heb. 12. 14.</bibl>
+               <p>Therefore love the Truth and Peace. Follow peace with all men, and holineſſe, without which
+no man ſhal ſee the Lord.</p>
+            </q>
+            <p>Printed, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:158348:2"/>
+            <head>A briefe Reply to an idle Pamphlet.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He wiſeſt of all Kings, <hi>Solomon,</hi> hath given us two ſeemingly repugnant pre<g ref="char:EOLhyphen"/>cepts,
+Prov. 26. 4<g ref="char:punc">▪</g> 5. the firſt is this; <hi>Anſwer not a fool according to his folly,
+leaſt thou alſo be like unto him.</hi> In obedience whereunto, I ſhal forbeare to
+give any anſwer to this <hi>Pamphletters</hi> extravagant rayling Prologue; to his
+two laſt ſorts of anoyntings, <hi>Effuſione vini &amp; Infuſione cerviſiae;</hi> with which
+two unctions, I feare this <hi>Prieſt of Bacchus</hi> was anoynted, when he penned
+this <hi>abſolute Anſwer,</hi> half in the <hi>Tavern,</hi> half in the <hi>Ale-houſe)</hi> with other
+his impertinences following them, fitter to exhilarate thoſe prophane <hi>Cavalieres,</hi> who have
+lately turned ſome of our <hi>Churches</hi> into <hi>Stables,</hi> and <hi>Pulpits</hi> into <hi>Cloſe-ſtooles,</hi> then to ſatisfie
+<hi>doubtfull conſciences;</hi> or ſober-minded men. The latter this, <hi>Anſwer is foole according to his folly,
+leſt he be wiſe in his own conceit;</hi> in purſuance whereof. I ſhall onely give a <hi>ſhort reply,</hi> to ſo much
+of his anſwer as may ſeem pertinent to the point in controverſiy: which is but this:</p>
+            <p>Whether that of Pſal. 105. 15. <hi>Touch not mine anoynted, and do my Prophets no <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</hi> was ſpo<g ref="char:EOLhyphen"/>ken
+principally and peculiarly of Kings; or of inferiour ſubjects? And whether ſubjects may be
+called <hi>Gods anoynted?</hi> The <hi>Vindicator</hi> truely aſſerts, that this was ſpoken principally and pecu<g ref="char:EOLhyphen"/>liarly
+of inferiour ſubjects fearing God, and not of Kings; which he manifeſts in his <hi>Vindica<g ref="char:EOLhyphen"/>tion,</hi>
+by two unanſwerable arguments:</p>
+            <p>1. Becauſe this was originally and immediately ſpoken and intended of <hi>Abraham, Iſaac,
+and Iacob, and their families;</hi> who were no actuall Kings; (for they lived many hundred yeeres
+before the Iſraelites had any actuall King, of which <hi>Saul</hi> was the firſt:) and that not in the time
+of their wealth, and greatneſſe, ruling like Princes in their own Territories; but as the <hi>Pſalmiſt</hi>
+expreſſely reſolves in this Pſalm, verſ. 12, 13. <hi>When they were but a few men in number, yea, VERY
+FEW, and strangers in the Land: When they went from one Nation to another; from one Kingdom,
+to another people;</hi> being moſt remote from any royall condition.</p>
+            <p>2. Becauſe theſe words were directly ſpoken to Kings, not of Kings, which he proves, by v. 14, 15
+<hi>Yea, he reproved KINGS for their ſakes, ſaying,</hi> (even to Kings themſelves) <hi>Touch not mine anoyn<g ref="char:EOLhyphen"/>ted,
+&amp;c.</hi> and by Gods prohibiting King <hi>Pharaoh,</hi> and King <hi>Abimelech,</hi> ſo much as to touch or
+hurt <hi>Abraham, Sarah, Iſaac</hi> or <hi>Rebekah,</hi> whiles they ſojourned within their Dominions, Gen.
+12. 10. to 20. c. 20. &amp;c. 26. to which the Pſalmiſts words relate. And therefore being thus im<g ref="char:EOLhyphen"/>mediately
+directed to Kings themſelves cannot be meant of Kings, but ſubjects, unleſſe you will
+make this nonſence Expoſition of it, That Kings muſt not touch nor hurt themſelves; or that it is
+unlawfull for one King to touch, hurt, make war againſt, impriſon, depoſe or kill another.</p>
+            <p>
+               <hi>To the latter of theſe two reaſons,<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> this</hi> abſolute anſwerer and confuter <hi>replies not ſo much as
+one ſyllable, becauſe in verity it is unanſwerable; and ſo yeelds the cauſe: To ſome part onely
+of the firſt reaſon, he endeavours to give ſome ſhew of anſwer, yet ſuch, as being examined, doth
+juſtifie the</hi> Vindicator, <hi>and confute himſelfe; for firſt he concur<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the</hi> Vindication <hi>in this,</hi> That
+the anoynted which the Prophet David ſpeakes of here, were the bleſſed Patriarkes, NO DENIAL
+OF THAT: he cals them here by their names, <hi>Abraham; Iſaac, and Jacob,</hi> touching which <hi>(primo
+intuitu, &amp; prima intentione)</hi> this ſtrict charge is given, that they be not touched here. <hi>This is his
+own</hi> concluſion, naturally derived from the courſe and ſer<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of the Hiſtory. <hi>Lo here</hi> confitentem re<g ref="char:EOLhyphen"/>um:
+<hi>this notable confuter, refuting not the</hi> Vindicator, <hi>but himſelfe. After which confeſſio<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he
+ſubjoynes this frivolous evaſion,</hi> Theſe Patriarches were principall perſons, and (as I may ſay) Prin<g ref="char:EOLhyphen"/>ces
+in their generations, and for ſuch reputed by ſuch amongſt whom they lived: We may ſafely averi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>:
+for of <hi>Abraham</hi> it is by expreſſe tearms ſaid, by the Hethites, that he was a mighty Prince;<note n="a" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 23. v. 6.</note> 
+               <hi>H<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re
+us my Lord, thou art a mighty Prince amongſt us.</hi> And the Patriark <hi>Iſaac</hi> in a Princely manner lif<g ref="char:EOLhyphen"/>ted
+up his head above his follows: <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the King ſaid to <hi>Iſaac</hi> the Patriarke,<note n="b" place="margin">Gen 26. 16.</note> 
+               <hi>Go
+from us, f<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r thou art much mightier than we.</hi> And <hi>Jacob</hi> muſt come in for his principality too, be<g ref="char:EOLhyphen"/>hold
+<pb facs="tcp:158348:2"/>
+his Scepter ſtandeth upon earth, and reacheth up to heaven:<note n="c" place="margin">Gen. 27. 28.</note> 
+               <hi>God gave to him the dew of hea<g ref="char:EOLhyphen"/>ven,
+and the fatneſſe of the earth:</hi> They were Rulers of the people, Princes, Kings: <hi>Pator</hi> was in
+them, <hi>and Arche</hi> too, the Fatherhood of the Church, and government of the State; and what finde we
+more in Kings? &amp;c. <hi>So the</hi> Anſwerer: <hi>The ſum of whoſe words is; That the Patriarcks were actu<g ref="char:EOLhyphen"/>all
+Kings, and in that regard onely called</hi> Gods anoynted, <hi>and this text</hi> (Touch not mine anointed)
+<hi>was ſpoken of them, as they were Kings and Princes, not Subjects: therefore it belongs peculiar<g ref="char:EOLhyphen"/>ly
+to Kings, not Subjects.</hi>
+            </p>
+            <p>To which I briefly reply:<label type="milestone">
+                  <seg type="milestoneunit">Reply </seg>1</label> 1. That theſe words, <hi>Touch not mine anointed, and do my Prophets no
+harme,</hi> were ſpoken not onely of theſe three Patriarkes themſelves ſucceſſively, but likewiſe of
+<hi>their wives and families;</hi> as is cleare by Gen. 12. 15. to 20. c. 20. 2. to 17. c. 26. 11. c. 34. 30 c. 35. 6.
+and by the expreſſe words of this Pſalm, ver. 12. 14. <hi>When THEY were but a few men in number,
+yea very few, &amp;c. He ſuffered no man to do THEM wrong, but reproved even Kings for THEIR
+ſakes, ſaying, Touch not mine anointed, &amp;c.</hi> all in the plurall number. Now admit theſe Patria<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes
+themſelves (as this Anſwerer would perſwade us) were Kings and Princes, yet their wives chil<g ref="char:EOLhyphen"/>dren
+and ſervants were no King nor Princes; therefore theſe words being ſpoken of their wives,
+children, and ſervants, as well as of themſelves, they were uttered of them not as Kings and Prin<g ref="char:EOLhyphen"/>ces,
+but inferiour ſubjects, and <hi>Gods faithfull choſen ſervants:</hi> as is reſolved Pſal. 105. 6. Eſay 41. 8.
+cap. 44. 1, 2.</p>
+            <p>2. Theſe words were uttered of them, not in the time of their greatneſſe and proſperity, when
+or where they ruled like Kings and Princes, and had the government of Church and State, as
+this <hi>Anſwerer</hi> dreams; but as the Pſalmiſt directly reſolves, ver. 12, 13. <hi>When they were but a few
+men in number,</hi>
+               <note n="*" place="margin">See Gen. 12. &amp; 20. &amp; 26.</note> 
+               <hi>yea very few, and ſtrangers in the Land, when they went from one Nation and King<g ref="char:EOLhyphen"/>doms
+to another, and ſojourned privately in an obſcure manner, in Egypt and Gerar, under King Pha<g ref="char:EOLhyphen"/>raoh
+and Abimelech,</hi> not as Kings and Rulers, but as ſtrangers and ſubjects: therefore they were
+ſpoken of them, not as Kings and Princes, but as ſtrangers and ſubjects fearing God.</p>
+            <p>3. Theſe Patriarcks were no actuall Kings nor Princes, as this Anſwerer fableth; for 1. they
+had no Kingdoms, Principalities, or Teritories of their own, over which to raigne, but only their
+own familes; which were <hi>very ſmall,</hi> as the Pſalmiſt determines, verſ. 12. <hi>When they were but few
+men, yea very few in number;</hi> and <hi>Jacob</hi> himſelfe too, Gen. 34. 30. <hi>And I being few in number, (but
+70. ſoules at moſt,</hi> Gen. 46. 26, 27.) <hi>they ſhall gather themſelves againſt me, and ſlay me, &amp;c.</hi> Yea; they
+with their families had then no certain habitation, but went <hi>like pilgrims and ſtrangers from one
+Kingdom and Nation to another, confeſſing that they were but pilgrims and ſtrangers upon earth,</hi> Pſal.
+105. 13. Heb. 11. 13. Gen. 17. 8. c. 36. 7. c. 37. 1. Deut. 23. 7. Pſ. 39. 12. therefore they were no actu<g ref="char:EOLhyphen"/>all
+Princes, Kings, and Rulers. 2. The Scripture never cals them Kings or Princes; and if they
+had carried themſelves as ſuch, they ſhould have been but uſurpers upon thoſe Kings and Princes,
+Crownes and Royalties, in whoſe Kingdoms they alwaies ſojourned, not at Kings and Princes
+but ſtrangers, and ſubjects in ſome ſort. True it is, that the Scripture cals them and others, <hi>Patri<g ref="char:EOLhyphen"/>arcks,</hi>
+but it was many ages after, and that in the New-teſtament, not the Old, not in regard of
+any Regall power or authority actually veſted in them, as Kings; but becauſe they were <hi>the</hi>
+               <note n="*" place="margin">Heb. 7. 42 Act. 7. 8, 9. e, 2, 29.</note> 
+               <hi>fa<g ref="char:EOLhyphen"/>thers
+and moſt eminent men of their families, both for antiquity, and piety:</hi> Whence <hi>Abraham</hi> is ſtiled
+not onely<note n="*" place="margin">Num. 1. 2. c. 20. 15. Pſal. 21. 4.</note> 
+               <hi>father Abraham,</hi> but the<note n="*" place="margin">Acts 7. 2. 12, 15. c. 3. 17. R<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 9. 5. Heb. 1. 1. 1 Ioh. 2. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3 Iohn 8. 13. Luk. 1. 55.</note> 
+               <hi>father of the faithfull.</hi> 3. This anſwerer confeſſeth, <hi>that the
+Regall government preceded the Patriarchall;</hi> (therefore the Patriarchall was not Regall, nor the
+Patriarcks Kings by his own confeſſion.) Which words of his, if abſolutely intended, to wit, that
+thoſe three Patriarcks,<note n="*" place="margin">Ioh. 8. 39, 53. Rom. 4. 1, 12. Iam. 2. 11. Luk. 1. 73. c. 16. 24.</note> 
+               <hi>Abraham,</hi>
+               <note n="*" place="margin">Rom. 4. 11, 16, 17, 18.</note> 
+               <hi>Iſaac, and Jacob,</hi> were before there were any Kings, are falſ; for
+<hi>there were Kings before them,</hi> Gen. 14. 1. to 19. If relatively, in reference only to the Iſraelites, then
+it is true, that the Regall government ſucceeded the Patriarchicall, yet nor immediately, for <hi>they
+were governed by</hi>
+               <note n="h" place="margin">Joſh. 1. 5, 16, 17. 18. Judges through<g ref="char:EOLhyphen"/>out 1 Sam. 12. 6. to 13.</note> 
+               <hi>Moſes, Ioſuah, and ſundry Iudges (who were no Kings) many hundred yeeres after
+theſe Patriarkes,</hi> their government being not Regal till <hi>Saul</hi> was anointed their <hi>king by Samuel,
+at their earneſt requeſt.</hi> Which very deſire of <hi>changing the government into a Monarchy, and ſetting
+up a King in ſtead of Iudges;</hi> is charged on them <hi>as a great ſin,</hi> 1 Sam. 8. 6, 7, 8. 19 20. c. 10. 19. c. 12.
+17, 19, 20, 25. <hi>Saul</hi> then being their firſt King, theſe Patriarks and Judges were certainly no Kings,
+as this blind <hi>Doctor</hi> fancieth them, againſt Scripture and ſtory. <gap reason="illegible: page cropped" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <p>
+               <pb facs="tcp:158348:3"/>
+a King. I anſwer, that the Hebrew phraſe, (as the Margin of our Bibles renders it) is not a migh<g ref="char:EOLhyphen"/>ty
+Prince,<label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> but, <hi>a Prince of God amongſt us;</hi> that is, <hi>a spirituall Prince,</hi> not temporall; or, <hi>one
+whom God doth principally bleſſe and favour,</hi> ſo Gen. 26. 28, c. 32. 28. Pſa. 45. 16. Rev. 1. 5. 6. compa<g ref="char:EOLhyphen"/>red
+together, expound it. 2. Though the word <hi>Prince</hi> in Scripture, doth <hi>ſometimes ſignifie a King,</hi>
+yet uſually it denotes nothing but a great, Noble man, the head or chief perſon of a Tribe or fa<g ref="char:EOLhyphen"/>mily;
+ſome great Officer, Counſellor of State, or Ruler under Kings, or ſuperiour Magiſtrates;
+witneſſe Gen. 34. 2. c. 12. 15. Num. 1. 16. c. 7. 2. 3. 10. 11. c. 17. 2 6. 7. Joſh. 9. 15. 18. c. 22. 14. 32.
+1 Sam. 29 3. 2 Sam. 10. 3. 1 Chro. 4. 38. 2 Chro. 12. 5. 6. c. 32. 3. Eſter 1. 3. 11. 14. Neh. 9. 32. 34.
+prov. 28. 2. Jer. 2. 28.<note n="*" place="margin">1 King. 14 7. c. 16. 2.</note> with infinite other texts. The ſtiling then of <hi>Abraham,</hi> a <hi>Prince,</hi> is no proof
+at all, that he was a King: for then all great Subjects and Officers of State, uſually <hi>called princes,</hi>
+ſhould by this argument become actuall Kings, and Gods anoynted in a politicke ſenſe as wel as
+their Soveraignes; which this <hi>Anſwerer,</hi> under pain of high treaſon, dares not grant. 3. This in<g ref="char:EOLhyphen"/>junction,
+<hi>Touch not mine anoynted,</hi> was given to <hi>King Pharaoh and Abimelech,</hi> with reference to
+<hi>Abraham, Iſaac,</hi> and their families, whiles they were but in a low condition, and their houſ<g ref="char:EOLhyphen"/>hold,
+<hi>very few in number,</hi> v. 12. 13. not when they were in their princely greatneſſe, and rich eſtate.
+This text therefore wil no waies prove, that it was ſpoken of them as Kings and Princes. As for
+<hi>Abimelecks</hi> ſpeech to <hi>Iſaac, Goe from us, for thou art much mightier then I;</hi> and Gods giving <hi>Jacob
+the dew of Heaven, and fatneſſe of the earth;</hi> it proves them no more to be actuall Kings and Prin<g ref="char:EOLhyphen"/>ces,
+then the Scriptures ſtyling <hi>all the men</hi>
+               <note n="*" place="margin">Joſh 10. 2. 2 Sam. 23. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 16, 17.</note> 
+               <hi>of Gedeon, mighty men;</hi> and <hi>Boaz,</hi> with others <hi>mighty
+men of wealth,</hi> ſheweth them to be Kings and Princes too. All which conſidered, I thinke all
+indifferent men will and muſt conclude for the <hi>Vindicator,</hi> againſt the <hi>Anſwerer,</hi> that, <hi>Touch
+not mine anointed,</hi>
+               <note n="*" place="margin">Ruth. 2. 1, 2. Kin. 15 20.</note> was not ſpoken principally and peculiarly of Kings; or of <hi>Abraham, Iſaac,
+and Iacob,</hi> as they were Patriarks, Kings, and Rulers; but of inferiour ſubjects, and of thoſe Patri<g ref="char:EOLhyphen"/>arks,
+as they were ſtrangers, and ſubjects fearing God: And that this is no <hi>trayterous expoſition of
+Schiſmaticks,</hi> as this <hi>Anſwerer</hi> moſt blaſphemouſly ſtiles it; but the genuine, proper expoſition,
+and true ſenſe of the text, as <hi>Auguſtine,</hi> with all orthodox Interpreters reſolve.</p>
+            <p>For his ſecond part of the queſtion, <hi>Whether Subjects fearing God, may not truely and properly
+be ſtiled Gods anoynted, as well as Kings?</hi> This Anſwerer not only denies ſubjects this title, aver<g ref="char:EOLhyphen"/>ring,
+<hi>that, touch not mine anointed, not only concerns them not, that they cannot enter-common in the
+title of anoynted;</hi> but likewiſe proclaims it, <hi>to be a turning of Monarchy, into a Democracy; a ma<g ref="char:EOLhyphen"/>king
+of</hi> unctos non unctos, <hi>a trayterous expoſition, a dangerous tenet, a caſting of the Throne into the
+dunghill, &amp;c. and no leſſe then high treaſon,</hi> to call ſubjects fearing God, <hi>Gods anoynted ones,</hi> in a ſpi<g ref="char:EOLhyphen"/>ritual
+ſenſe.<note n="*" place="margin">So the vulgar Latine reads it.</note> Yet in the mean time he forgets ſo much as to mention, much leſſe to anſwer, thoſe
+pregnant reaſons and Scriptures cited in the <hi>Vindication,</hi> to prove all faithful Chriſtians, not only
+<hi>unctos,</hi> but <hi>Chriſtos meos,</hi> Gods anoynted; yea, honourd with the very name and title of <hi>Chriſt,</hi>
+1 Cor. 12. 12. Eph. 4. 12. 13. And is this <hi>an abſolute anſwer and confutation of that groundleſſe Vindica<g ref="char:EOLhyphen"/>tion;</hi>
+not to anſwer ſo much as one text or reaſon in it? or rather, a plain confeſſion, that the texts
+and reaſons in it are unanſwerable, becauſe neither anſwered nor confuted? In one word, this An<g ref="char:EOLhyphen"/>ſwerer,
+in his Margin, acknowledgeth; <hi>That other Saints and ſervants of God, may in a ſecondary
+way be ſaid to be anointed</hi> And in his text, <hi>Others may be</hi> Uncti, <hi>not</hi> Chriſti; <hi>anoynted, but not
+anoynted of the Lord.</hi> A pretty Bull, and groſſe contradiction; for <hi>Chriſti</hi> and <hi>Vncti,</hi> are one and
+the ſame in ſence, both ſignifying <hi>anointed,</hi> the one in Greeke, the other in Latin; whence the
+<hi>vulgar,</hi> with other <hi>Latin Bibles</hi> render this text; <hi>Nolite tangere CHRISTOS meos;</hi> and <hi>Arias
+Montanus, Iunius,</hi> with many other, tranſlate it, <hi>VNCTOS meos;</hi> uſing theſe two words promiſ<g ref="char:EOLhyphen"/>cuouſly
+as the very ſame in ſence, in ſubſtance, and differing but in ſound: And why all true
+<hi>Chriſtians</hi> (who derive this very name from <hi>Chriſtos,</hi> and are in direct tearms ſtiled <hi>CHRISTOS,</hi>
+by the holy Ghoſt himſelf, 1 Cor 12. 12. Eph. 4. 12, 13.) may not as properly be termed <hi>Chriſti,</hi> as
+<hi>Vncti,</hi> or<note n="*" place="margin">
+                  <g ref="char:V">Ʋ</g>nctic. Chriſto &amp; his quireius ſunt commu<g ref="char:EOLhyphen"/>nis eſt, quia ejuſdem unctionis ſum &amp; ipſi participes: quamobrem &amp; nos par<g ref="char:EOLhyphen"/>ticipatione Chriſti Chri<g ref="char:EOLhyphen"/>ſtiani dici<g ref="char:EOLhyphen"/>mur: <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ychus in levitic: l. 2. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 8.</note> 
+               <hi>Chriſtiani,</hi> I deſire this Anſwerer to inſtruct me in his next <hi>abſolute confutation;</hi> which
+I would adviſe him to anoint and temper <hi>Effuſione Olei,</hi> not <hi>Effuſione vini,</hi> &amp; <hi>Infuſione cerviſiae</hi>
+(to uſe his own diſtinctions) with the ſpirit and language of ſobriety; not with the vomit, the
+ſcurrility of the Tavern and Ale-truth, wherewith his whole <hi>Anſwer</hi> and <hi>Confutation</hi> is <hi>abſo<g ref="char:EOLhyphen"/>lutely</hi>
+defiled, not anointed. <gap reason="illegible: page cropped" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <p>
+               <pb facs="tcp:158348:3"/>
+nor <hi>confutation</hi> at all to any one text or reaſon in the <hi>Vindication;</hi> and pretermitting in ſilence a<g ref="char:EOLhyphen"/>bove
+12 parts thereof, if divided into 13. without ſo much as endeavouring any anſwer or refu<g ref="char:EOLhyphen"/>tation
+thereof; leaſt he ſhould ſeem to <hi>have loſt his Oyle,</hi> and ſpoken nothing at all to purpoſe,
+varniſheth and patcheth up his <hi>deformed Bable</hi> with ſundry rayling invectives, againſt <hi>ignorant
+mechanicke Divines. Lay-preachers, Shee-divines</hi> (who had need <hi>inſtruct</hi> this learned Doctor <hi>in
+the way and mind of the Lord more perfectly,</hi> as <hi>Aquila and Priſcilla,</hi> two mechanicks, did that great
+<hi>Apollos,</hi> Act. 18. 26.) <hi>Sectaries, Schiſmaticks, &amp;c.</hi> with many extravagant impertinences, concer<g ref="char:EOLhyphen"/>ning
+<hi>the traducing of moſt vertuous and religious Princes;</hi> (which I pretermit) and divers malici<g ref="char:EOLhyphen"/>ous
+ſlaunders againſt the <hi>Vindication;</hi> which becauſe he could not <hi>anſwer,</hi> he would at leaſt <hi>ca<g ref="char:EOLhyphen"/>lumniate</hi>
+and <hi>traduce</hi> with groſſe lies and miſ-reports. I ſhall inſtance but in two particulars of
+many, by which you may diſcerne his deteſtable forgeries.</p>
+            <p>
+               <hi>Firſt,</hi>
+               <note n="*" place="margin">
+                  <hi>See</hi> Concil. Toletanum 12. Surius. Tom. 3. p. 3. 4.</note> 
+               <hi>he avers,</hi> that the Vindication, buzzeth into the peoples cares, that they onely are Gods anoyn<g ref="char:EOLhyphen"/>ted;
+none but they, and not Kings: that the King was not Gods anointed; thereby to turn Monarchy
+into Democracy, and expoſe the ſacred perſons of Kings to open violence, &amp;c. <hi>Whereupon he takes
+much ſuperfluous pains, to prove Kings, Gods anointed: when as this falſe Accuſer, had not he
+been wilfully blind, or his eyes</hi> changed into, <hi>or cloſed up with</hi> pots of Ale <hi>(to uſe his own dia<g ref="char:EOLhyphen"/>lect)
+might have ſeen the</hi> Vindicator <hi>there</hi> willingly and cordially profeſſe, that Kings in ſacred Writ
+are commonly called Gods anointed, &amp;c. <hi>In which regard,</hi> their perſons are ſacred, and no violence
+ought to be offered to them, eſpecially by their ſubjects; <hi>citing ſundry texts to prove it. Peruſe his
+words, and be aſhamed of this impudent calumny.</hi>
+            </p>
+            <p>
+               <hi>Secondly, he proclaims,</hi> that it bloweth a Trumpet of ſedition and war, to work confuſion in Church
+and State: Os durum! <hi>When in verity it wholy tends,</hi> and earneſtly perſwades to peace, and unity in
+both, and a ſpeedy laying down of all offenſive and defenſive armes, now unhappily raiſed amongſt us.</p>
+            <p>After this, for want of matter of his own, to fill up his empty pages, he borrows ſome paſſages
+from Doctor <hi>Ferne,</hi> propounding this caſe of conſcience; <hi>Whether upon ſuch a ſuppoſition, as is
+now frequently propoſed; (the king will not diſcharge his truſt, but is ſeduced to ſubvert religion, laws,
+and liberties,</hi> and hath raiſed an army to that purpoſe) <hi>the ſubject</hi> (to wit, by the Parliaments di<g ref="char:EOLhyphen"/>rection
+and command) to preſerve the Kingdome, and Parliament, <hi>may take</hi> (defenſive) <hi>armes to
+reſiſt their Soveraigne,</hi> or his plundering Cavaleers? (I have added ſome words to ſtate the queſtion
+fuller.) Dr. <hi>Ferne,</hi> and he from Ro. 13 1. to 8. reſolve expreſſely, <hi>that neither in this, nor in any other
+caſe, the ſubiects ought to reſiſt by force of armes, but onely paſſively by way of diſobedience, under perill
+of damnation.</hi>
+            </p>
+            <p>This queſtion having no relation to the <hi>Vindication,</hi> and tending to the very diſſolution of <hi>So<g ref="char:EOLhyphen"/>veraigney</hi>
+on the one hand, and <hi>the peoples ſafety and liberty</hi> on the other, if not dexterouſly han<g ref="char:EOLhyphen"/>dled,
+with much caution and moderation, I ſhall here forbeare to diſcuſſe it; referring thoſe who
+deſire ſatisfaction, <hi>how far forth, and in what caſes it is lawfull for ſubjects to take up offenſive and
+defenſive armes againſt Princes and Magiſtrates, and in what caſes it is unlawfull,</hi> to <hi>Sleidan,</hi> Hiſt. l. 8.
+18. &amp; 22. Biſhop <hi>Bilſon</hi> his true difference between Chriſtian ſubjection, and unchriſtian rebel<g ref="char:EOLhyphen"/>lion,
+par. 3. p. 510. to 520. <hi>David Paraeus</hi> his Comentary on <hi>Romans 13.</hi> Dubium. 8. p. 1347, &amp;c.
+and his <hi>ſons</hi> juſtification thereof; to Dr. <hi>Willet</hi> his ſixfold Commentary on Romans 13. Que<g ref="char:EOLhyphen"/>ſtion
+16. &amp; Controverſie, 3. p. 588. 589. &amp;c. 608. to <hi>Richardus Dinothus, De bello Civili Gallico
+religionis cauſa ſuſcepto,</hi> in ſundry pages eſpecially, p. 231. 232, &amp;c. 225. to the Hiſtory of the
+<hi>Angronians</hi> in Mr. <hi>Foxes</hi> Acts and Monuments, Edit. 1641. vol. 2. p. 213. 214. King <hi>James</hi> his an<g ref="char:EOLhyphen"/>ſwer
+to Cardinall <hi>Perron, Fox</hi> Acts and Monuments, <hi>Ed. 3.</hi> fol. 1. p. 88. to Mr. <hi>Goodwins</hi> Anti-cavalariſme,
+M. <hi>Burroughs</hi> his <hi>Glorious name of God the Lord of Hoſts</hi> newly publiſhed and others,
+who have amply handled this controverſie (which I pray, and wiſh from my very ſoule, we may
+have no more occaſion to debate.) And to that notable ancient reſolution of the moſt excellent
+heathen Emperour <hi>Trajan;</hi> who<note n="*" place="margin">Eccleſia<g ref="char:EOLhyphen"/>ſticae. Hist. l. 3. c. 23. Speed, hist. <hi>p.</hi> 9<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> (as, <hi>Nicephorus Caliſtus</hi> records) <hi>was ſo ſtudious of law and ju<g ref="char:EOLhyphen"/>ſtice,
+and ſo far eſtranged from diſhoneſty, that upon a time be gave a ſword to a governour of the City
+in the publique view of all, ſaying, take this ſword; and if I ſhall govern the Empire well, uſe it for me;</hi>
+ſin aliter, CONTRA ME: <hi>if otherwiſe,</hi> USE IT AGAINST ME. A pregnant evidence, that
+this beſt of all the heathniſh Roman Emperours (who upon his election, <hi>ſent an</hi>
+               <note n="*" place="margin">Op<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us opus Chr<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>Edict to the
+<gap reason="illegible: page cropped" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+                  <pb facs="tcp:158348:4"/>
+his command)</hi> was of this Judgment; that no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only an inferiour King, but even the Roman Empe<g ref="char:EOLhyphen"/>rour
+himſelf (the greateſt and moſt abſolute Monarch) might be lawfully reſiſted with force of
+armes, by the Governour of <hi>Rome,</hi> much more then by the Roman Senate it ſelfe, which not <hi>onely
+elected <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> con firmed; but oft times exerciſed a judiciary power over their Emperours to coerti<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, de<g ref="char:EOLhyphen"/>privation,
+and death it ſelf,</hi> as the<note n="*" place="margin">Suetonius, Eu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ropius, <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſcus, Her<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ian, Sabellicus, Opme<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rus, <hi>and</hi> Grim<g ref="char:EOLhyphen"/>ſton <hi>in the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ives of</hi> Nero, Do<g ref="char:EOLhyphen"/>mi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ian, Ner<g ref="char:EOLhyphen"/>va, A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rian, Commodus, Didius, Iu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ianus, Heliogaba<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is, Maxi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inus, Gal<g ref="char:EOLhyphen"/>lienus Philip Iovinianus, Tacitus, Probus, <hi>and others.</hi>
+               </note> 
+               <hi>Roman Hiſtories</hi> manifeſt againſt Dr. <hi>Fernes</hi> miſtake; though the
+Chriſtians uſed no force againſt them; being then but private men, not the Senate; and their re<g ref="char:EOLhyphen"/>ligion
+quite contrary to the religion, lawes, and government of the Empire; in which caſe, whiles
+theſe lawes were in force, and they no Senators, they might onely <hi>fly</hi> or <hi>ſuffer,</hi> and reſiſt onely
+with prayers, teares, and paſſive diſobedience, not with force of armes, prohibited in ſuch caſes
+by this text; which no waies reſembles the caſe now in queſtion. All I ſhal ſay to this text of the
+Romans, and to this caſe of conſcience; ſhal be briefly compriſed in theſe ſubſequent propoſiti<g ref="char:EOLhyphen"/>ons,
+which I hope wil rectifie all extremities, and miſtakes on both ſides.</p>
+            <p>Firſt, that this text expreſſely commands ſubjection and obedience to all civil Magiſtrates
+whatſoever, whoſe Soveraignties and powers are either ordained or approved of God, in all their
+lawful commands, and penal executions; extending as fully to all Governors, Rulers, and ſubor<g ref="char:EOLhyphen"/>dinate
+Magiſtrates, as to Kings themſelves; as is evident by the expreſſe words of the text, and by
+Tit. 3. 1. 1 Tim. 2. 2. 1 Pet. 2<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 13, 14. Heb. 13. 17. Epheſ. 6. 1. 5. Col. 3. 18, 20, 23. 1 Tim. 6. 1, 2. Joſh.
+1. 16, 17, 18. Ezra 7. 25, 26. Therefore to the Parliament (the higheſt Court) as wel as to the King.</p>
+            <p>
+               <hi>Secondly, that it enjoynes ſubjection, obedience, and prohibits reſiſtance to higher powers
+and rulers, only ſo far forth as they are Gods Ordinance, and as they are</hi>
+               <note n="*" place="margin">Concil. Pariſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. An. 829. l. 2. c. 8.</note> lawfully executed <hi>for the
+common good of the people, the praiſe and incouragement of wel doers, and the juſt puniſhment
+of malefactors; as is evident by,</hi> v. 3. 4. 6 For Rulers are not a terror to good works, but to evil: wilt thou
+not then be afraid of the power? do that which is good, and thou ſhalt have praiſe of the ſame; For he is the
+Miniſter of God to thee for good; but if thou do that which is evill, be affraid, for he beareth not the
+ſword in vain; For he is the Miniſter of God, a revenger, to execute wrath upon him that doth evil, &amp;c.
+For they are Gods Miniſters, attending continually upon this very thing: <hi>compared with 1 Pet. 2. 13,
+14.</hi> Submit your ſelves to every ordinance of man for the Lords ſake; whether it be to the King as to the
+ſupream; or unto the Governours, as unto them that are ſent by him: for the puniſhment of evill doers, &amp;
+the praiſe of them that do wel. <hi>And with Eſa. 32. 1, 2. c. 56. 1, 2. c. 9. 7. c. 16. 5. 2 Sam. 23. 3. 2 Chr. 9. 8.
+Ezek. 44. 15, 16, 17. c. 45. 8, 9. Deut. 17. 15. to the end. Pſ. 78. 72, 73. 74. 1 Tim. 2. 2, 3. Prov. 1. 3. c. 21.
+3. c. 20. 8. 26. c. 29. 4. 14. Pſal. 101. 2. to the end. 1 Sam. 8. 20. 2 Sam. 8. 15. Ier. 22. 15. Amo. 5. 15.
+1 King. 3. 9. 28. c. 10. 9. Pſ. 97. 2. Pſ. 122. 5. Mich. 3. 1, 2, 3.</hi>
+            </p>
+            <p>Thirdly, that ſubjects are no waies obliged by this text to obey, or not reſiſt the higher powers,
+as they are either abuſed or perverted by unjuſt or wicked Magiſtrates, to oppreſſion, injuſtice, ra<g ref="char:EOLhyphen"/>pine,
+ſubverſion of religion, lawes, liberties, ſtate, people; or when as they command unlawfull
+things contrary to the laws of God, or the ſtates they govern; but in ſuch caſes as theſe (quite out
+of this Scriptures verge and intention) they may &amp; muſt be diſobeyed; and in ſome caſes not only
+paſſively, but actually reſiſted; as is evident by Exod. 1. 15. to 20. Num. 22. 12. 13. 18. 22. 34. 35. c.
+23. 7 8. 11. 12. 13. 20. 21. 22. 23. 25. 26. c. 24. 1. to 15. 1 Sam. 14. 38. to 46. c. 22. 17. 18. c. 12. to 27.
+1 King. 11. 20. to 25. 2 King. 1. 9. to 16. c. 6. 31, 32. 2 Chro. 11. 4. c. 26. 17. to 22. Eſther 3. 2. 3 4.
+1 King. 21. 2. 3. 4. Dan. 3. 8. to 29. c. 7. 4. to 15. Ioh. 7. 33. to 46. Act. 4. 19, 20. c. 5. 28. 29. 40. 52. 2 Kin.
+11. 4. to 17. Ezek. 21. 25. 25. 26. 27. 2 Kin. 18. 7. By the<note n="*" place="margin">Rex à rectè agend<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vocatur, ſi <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtè piè &amp; <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſericordi<g ref="char:EOLhyphen"/>ter regit <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rex appellatur, ſi his caruorit, non Rex, ſed <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yrannus eſt Concil. Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſ. An. 829 l. 2. c. 1, 2.</note> 
+               <hi>practice and reſolution of all the proteſtant
+Churches in Germany, Bohemia, France, Scotland, Holland, Switzerland,</hi> approved, yea aſſiſted in their
+defenſive wars againſt their popiſh Soveraignes, both by<note n="*" place="margin">See <hi>Selida<g ref="char:cmbAbbrStroke">̄</g>. Hiſt. l. 8. 18, 22.</hi> Biſhop <hi>Bilſon,</hi> his true diffe<g ref="char:EOLhyphen"/>rence, &amp;c. part 3. 509, to 522. K. <hi>Iames,</hi> his anſwer to <hi>Perron.</hi>
+               </note> Qu. <hi>Elizabeth,</hi> our learned K. <hi>Iames,</hi> and
+our preſent Soveraigne K. <hi>Charles,</hi> with the conſent of their Parliaments and people; and by the
+expreſſe reſolution not only of our <hi>King, and preſent Parliament,</hi> in their late <hi>Act of pacification
+and oblivion,</hi> but of 4. ancient Parliaments more in theſe 4. ſeveral Kings raignes: namely. 15. E. 2.
+in the Act intituled, <hi>Exilium Hugonis de ſpencer.</hi> &amp;c. 1 E. 3. c. 1. 2. 3. 11. <hi>R.</hi> 2. c. 1. 2. 3. 4. 5. 1 H. 4. c. 2. 3
+4. which you may read at large, and find <hi>the very caſe of reſiſtance</hi> now in queſtion, <hi>reſolved in
+them to be lawful<g ref="char:punc">▪</g>
+               </hi> and in the great<g ref="char:punc">▪</g>
+               <note n="*" place="margin">Speed, hiſt. p. 1193, 1194. 12<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6 1237. Beza Epiſt. Ded: in Com. in <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>Councel of Baſil.</hi> to. The reaſon is cleare becauſe their illegal
+actions, commands, and wars upon their ſubjects, proceed not from their<note n="*" place="margin">In Fox Acts and <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onuments <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> juſt &amp; legal power,
+which can do no wrong, but from their private illegal wils and luſts, which are no power and <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:158348:4"/>
+ceaſe to govern according to law, in and as to it they ceaſe to be <hi>Kings,</hi> and <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, as King
+<note n="*" place="margin">Spee<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Parlia<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Eluther<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Epiſt. S<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>manni. C<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>cil. T<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> p. 34. F<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Acts <hi>an<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Monum<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>v. 1. p.</hi> 88.</note> 
+               <hi>Iames</hi> with others reſolve.</p>
+            <p>4<hi rend="sup">ly</hi>. That this Scripture, as it enjoynes obedience to ſubjects, ſo it preſcribes bounds to Magiſtrates,
+&amp; the higheſt powers, which they muſt not exceed: which truth, as it is intimated in the word <hi>ordained:
+(the powers that are, are ordained of God:</hi> that is they are circumſcribed with certain bounds and laws of
+juſtice and honeſty, within which, unleſſe they contain themſelves, they exorbitate from Gods ordi<g ref="char:EOLhyphen"/>nance.)
+So it is expreſly reſolved in the following words: <hi>For Rulers are not a terror to good works, but to
+evill, &amp;c. For he is the Miniſter of God to thee for good, &amp;c. The Miniſter of God; and avenger, to execute
+wrath upon him that doth evil; for they are Gods miniſters, attending CONTINVALYON THIS VERY
+THING.</hi> By which it is evident, that God hath given Kings and Rulers no commiſſion or power at
+all to plunder, murther, oppreſſe, deſtroy, or vex their ſubjects upon any occaſion, or to ſubvert religi<g ref="char:EOLhyphen"/>on,
+lawes, liberties, and the ſtates they govern; but only, to <hi>puniſh</hi>
+               <note n="k" place="margin">Pſ. 10 <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to the e<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Iſa. 32. 1<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 2 Sam. 2<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 2 Ch. 9<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> 
+               <hi>malefactors,</hi> in a legal way; (not ſhel<g ref="char:EOLhyphen"/>ter
+them from publique juſtice) to protect, reward, and <hi>ſeek the temporall and ſpirituall</hi>
+               <note n="l" place="margin">Neh 2. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Jere. 38. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 2 Sam. 5. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 1 Sam. 8. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 20 Iſa. 4<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 4. c. 49. 2<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> 
+               <hi>welfare</hi> of their
+good ſubjects, to execute equall juſtice to all, without reſpect of perſons, and to rule them in ſuch ſort
+as God himſelf hath commanded, and would have them governed, whoſe miniſters they are. If they do
+otherwiſe they do but pervert that power which God and men have intruſted them with, and riſe up
+in<note n="*" place="margin">1 Sam. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 22, 23, 24. Iſa. 1. 20. Eccl. 3. 1. Amo. 1. 2<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Ma. 3. 1. 2<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> 
+               <hi>rebellion againſt God himſelf</hi> the King of Kings, and Lord of Lords; who by way of juſt retaliation
+ought, <hi>cauſeth their ſubjects to</hi>
+               <note n="n" place="margin">2 Chr<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 10. 15, 1<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 18, 19 c. 1<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 4. c. 13. 5<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 7. 2 Kin<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 24. Rom<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 1. 1. c. 3. 5<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> 
+               <hi>rebel, and riſe up in armes againſt them, to their ruine and vexation.</hi>
+            </p>
+            <p>5<hi rend="sup">ly</hi>. That this text is meant only of the lawful power and authority of Magiſtrates and rulers, which
+is alwaies juſt and good, and the ordinance of God; and ſo not to be reſiſted; not of their exorbitant
+<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>il<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, which are <hi>oft times</hi>
+               <note n="o" place="margin">Dan <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 21. Ezec<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 21. 23. 2 King. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> &amp; 24. Pſ. 94, 20, 21. Mich. 3. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, 3.</note> 
+               <hi>vile, wicked, yea deteſtable both to God and man.</hi> Or if you wil; it is intended of
+Magiſtrates conſidered meerly and chiefly in their juſt politick, not naturall capacities: whence it is,
+that the text uſeth the word, <hi>higher powers, the powers that are,</hi> the power, &amp;c. in the general; nor
+naming any particular kind, of power, or penſons inveſted with it: which conſideration, together with
+that of <hi>Bracton. l. 3.</hi> f. 107. anſwers the main arguments of Dr. <hi>Ferne</hi> and others againſt reſiſting ſu<g ref="char:EOLhyphen"/>periours
+or Kings, even when they prove ſubverters of laws, liberties, religion, and turne open bloody
+tyrants. Say they, <hi>The powers then (when the Apoſtle forbids to reſiſt) were ſubverters of that which was
+good, and juſt, and perſecutors of religion, Caligula, Chaudius, and Nero, being Emperours about that time.</hi> If
+theſe then, by the Apoſtles doctrine, though ſuch publike enemies to the republike, religion, and
+tranſcendent tyrants, were not to be reſiſted, but ſubmitted to; then no other Kings nor Magiſtrates,
+though they trace their footſteps. To which I anſwer, that theſe men confound their lawful power &amp;
+unjuſt pleaſures, wils, luſts and perſons all together, which the Apoſtle really diſtinguiſheth. Their
+Imperiall power and ſoveraignty was juſt. good, <hi>ordained of God to puniſh evil, and countenance good
+<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>in;</hi> therefore the Apoſtle commandeth every ſoul to ſubmit thereto, and not reſiſ<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it: but their perſons
+inveſted with this power, together with their wils and actions were evill, perverting their authority, <hi>(a<g ref="char:EOLhyphen"/>gainſt
+Gods inſtitution)</hi> to tyranny, bloodſhed, ſubverſion of religion, laws, liberties, and in this regard
+their unjuſt illegall commands, and proceedings of this nature, not warranted by their juſt power, nor
+any part therof were not to be obeyed or ſubmitted to, but reſiſted; as I have formerly proved by other
+Scriptures in the third propoſition: This the Doctor himſelf confeſſeth, when he writes, <hi>That per<g ref="char:EOLhyphen"/>ſonall
+defence is lawfull againſt the ſudden illegall aſſaults not onely of the Kings meſſengers, but of the
+King himſelf, thus far; to ward his blows, to hold his hands, and the like, not to endanger his perſon, &amp;c.</hi> And
+indeed, how ever the Chriſtian Romans, expounded this text of the Apoſtle, certain I am, the pagans
+amongſt them, were ſo far from believing they might in no caſe reſiſt thoſe tyrannizing Emperors, that
+they made no conſcience to murther them,<note n="*" place="margin">See <hi>Suet<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nius Eurr<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>pius, Zon<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ras, Opme<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>rus, Grim<g ref="char:EOLhyphen"/>ſton,</hi> and others in their th<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> lives.</note> 
+               <hi>Charea and his confederates giving Caligula no leſſe than 30
+wounds whereof he died. Claudius was poyſoned; Nero, by the</hi>
+               <note n="*" place="margin">Sena<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſ<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſententia conſtitut<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> eſt ut mud<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> perpublic<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ductus fur<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>c<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llo eius inſerta, vi<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gis uſque <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> mortem <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> deretur, <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> 
+               <hi>Senato aſſembled, for his tyranny, and oppreſſi<g ref="char:EOLhyphen"/>on,
+was adjudged an enemy to his Country, and condemned to die for it; to avoyd which judgment, bring ſought
+for, he became his own executioner, murthering himſelf without <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his death being known in Rome, the
+joy which the Senate and people conceived was incredible, and <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> (Chriſtians and Pagans) <hi>came ſorth
+into the ſtreets to congratulate one another, with bonnets on their heads, which was a ſigne of liberty.</hi> The Dr.
+therefore might wel have forborn to inſtance in theſe examples and to queſtion what the Senate then might do.</p>
+            <p>6. Admit this text prohibits the reſiſting of the abuſed power, and perſons of Kings &amp; Magiſtrates themſelves
+in any caſe; yet queſtionleſſe it extends not to their wicked unlawfull inſtruments, and armies raiſed, to plunder,
+<gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> murder deſtroy their ſubjects perſons, houſes goods, laws, liberties, or to ſubvert religion; but that theſe, <gap reason="illegible: page cropped" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+               <pb facs="tcp:158348:5"/>
+Realm, to commit ſuch outrages, and being in truth meere robbers, theeves, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elons, murtherers, and treſpaſſ<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> (if
+not rebels and traytors to their Country) by the lawes of God and man; may lawfully be reſiſted and in a meere
+juſt, neceſſary, deſenſive war deſtroyed without any danger of murther and damnation, threatned by this text<g ref="char:punc">▪</g> the
+very<note n="*" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Co<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, 192, <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 258, <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 246, <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 21 H. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 9. 24 H. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 5. ſtam. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2, 14. <hi>Co.</hi> 5. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1, 92, Matth. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is, Hiſt. <gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>gl. An. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 15, 12 16 <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>64, 265, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note> common law of the Realm, and of nature, allowing all men, to beat, repell, and ſlay others in ſome caſes, in
+defence of their own perſons, families, houſes, goods, and liberties, if unjuſtly aſſaulted or invaded.
+I have now quite done with the un-anſwering anſwer, O that we had alſo totally ended and compoſed our unci<g ref="char:EOLhyphen"/>vil
+diſſenſions, that ſo we might now joyn with the bleſſed Angels, in their ſweet Chriſtmas Car<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l,<note n="o" place="margin">Kin. 1. 9 16. c. 6. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 32, 33. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 8. 11, <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> c. 9. 1. 17.</note> 
+               <hi>Glory be
+to God in the higheſt, on earth peace, good will towards men.</hi> O that the Nativity of the<note n="p" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2. 14. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. 9. 6. Kin. 20. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pſa. 85. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Zach. 8. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 19.</note> 
+               <hi>Prince of peace</hi>
+which we now celebrate, might be the joyfull ſeaſon both of the conception, birth, growth, and perpetuall re<g ref="char:EOLhyphen"/>eſtabliſhment
+of our much deſired peace. It was a moſt memorable ſpeech and reſolution of the Emperour <hi>Oth<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+the firſt,<note n="*" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 29. 19. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſthe.</hi> 8. 6. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rimſton, <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>etonius, <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> us, <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sabelli<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>in his</hi> 
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> when <hi>Vitellius</hi> his competitor for the Empire, and he, had fought ſome two or three bloody battels,
+wherein divers brave Roman ſouldiers were ſlain on either ſide, and yet the controverſie undecided, the greateſt
+part of the Senate and his ſouldiers comming to him with ſhew of great courage, offering to die, in his ſer<g ref="char:EOLhyphen"/>vice,
+and afford him meanes to maintain the war: He made this Oration to them. <hi>That ſeeing his enemy was
+neither Hannibal, nor Pyrrhus, or any other common enemy to the people of Rome, but Romans themſelves,
+and the Lords thereof, ſo as the Conquerors and conquered did wrong their Country, if they contended any
+longer, ſeeing that the joy of the victory was to the loſſe and prejudice thereof; And that he could no way ſo
+advance the Roman Empire, by winning battels in war and contention, as by making a ſacrifice of himſelf for
+the peace thereof, ſeeing by his death only a generall concord would enſue. Wherefore he was content Vitellius
+ſhould be Emperor, without any more bloodſhed, and he deſired no revenge or rule by the prejudice of his citi<g ref="char:EOLhyphen"/>zens,
+neither to diminiſh the Common-wealth, by the loſſe of ſuch armies: and that as others had purchaſed ho<g ref="char:EOLhyphen"/>nour
+and fame by wel-governing and ſupporting the Empire, ſo he would likewiſe procure himſelf a good
+name by leaving it reſolutely, to the end he would not damnifie it;</hi> which ſpoken, he ſlew himſelf preſently with
+his Rapier, ſaying, <hi>That he was not ſo conſiderable, that a civill war ſhould be raiſed and continued for his ſake.</hi>
+O that all the delinquents and malignanta about the King, would now (after ſo much civil bloodſhed, occaſioned
+by their means, to ſhield themſelves from publique juſtice) uſe ſuch like orations to His Majeſty, and voluntarily,
+yeeld themſelves up to their legal tryals, ſaying, <hi>That they in truth are not ſo much worth, as that any more
+Engliſh blood ſhould be unnaturally ſpilt, a civil war any longer maintained, and the whole kingdom ruined
+for their unjuſt protection or deſignes:</hi> Then certain I am, our preſent wars would ſoon be determined, our diffe<g ref="char:EOLhyphen"/>rences
+compoſed, our armies disbanded, and our peace reſtored, yea eſtabliſhed in truth, and righteouſnes. How
+ever theſe men ſtand affected, yet this ſhal be my conſtant prayer and endeavour, that truth and peace, righteouſ<g ref="char:EOLhyphen"/>nes
+and holines, may kiſſe each other, all our daies, and that God would<g ref="char:punc">▪</g> bleſſe us his people with true peace:
+for (alas)<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how can I (or any other true Chriſtians) <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> endure to ſee the evil (that is come) that ſhal come unto
+my people? or how ſhal I endure to ſee the deſtruction of my kindred, Nation, Country? O let me never live to
+behold that diſmal day, wherein Englands condition, ſhal be like that of Iſraels, (as now it is in ſome ſort) Zeph.
+11. 4, 5, 6. <hi>Thus ſaith the Lord my God, feed the flock of the ſlaughter, whoſe poſſeſſors ſlay them, and hold them<g ref="char:EOLhyphen"/>ſelves
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> guilty; and they that ſell them ſay, Bleſſed be the Lord, for I am rich; and their own ſhepheards pitty
+them nor; for I will no more pity the inhabitants of the lands<g ref="char:punc">▪</g> ſaith the Lord; but to, I wil deliver the men, every
+one into his neighbours hand, and into the hand of his</hi>
+               <note n="*" place="margin">Quoſdam <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpeximus <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ges, ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ua<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia vi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us popul<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m, &amp; <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Reges it vocati fen<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ionem <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vaſtatio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m conver<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, qui va<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tionem <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>enſione <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere debu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>unt, Conc<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etanum <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rius, Tom. p. 865.</note> 
+               <hi>King, and I ſhal ſmite the land, and out of their hand, I
+wil not deliver them. Through the wrath of the Lord of Hoſts, is the land darkned, and the people ſhal be as the
+fewel of the fire; no <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an ſhal ſpare his brother, and <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhal ſnatch on the right hand, and <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e hurgry; and <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhal
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate on the left hand, and they ſhal not be ſatisfied; they ſhal eate every man the fleſh of his owne arme. Manaſ<g ref="char:EOLhyphen"/>ſeh,
+Ephraim; and Ephraim, Manaſſeh, and they together ſhal be againſt Iudah: For all this his anger is not
+turned away, but his wrath is ſtretched out ſtill, a They have made the pleaſant portion a deſolate wildernes;
+The ſpoylers are come upon all high places through the wildernes, for the ſword of the Lord ſhall devoure from
+one end of the Land, even to the other end of the Land, no fleſh ſhal have peace. The whole Land is made deſo<g ref="char:EOLhyphen"/>late,
+becauſe no man layeth it to heart,</hi> This is a ſad condition indeed: it is <hi>Irelands</hi> already altogether; and
+<hi>Englands</hi> in a great meaſure. It is the obſervation of<note n="*" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 12. 10, <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 12.</note> 
+               <hi>Paulus Oroſius, that when Chriſt the Prince of peace
+was born, the temple of Ianus was cloſed, &amp; the whole world in peace without any wars, the better to entertain
+this Prince of peace:</hi> O that this time of Chriſte nativity might produce ſuch a univerſal peace through<g ref="char:EOLhyphen"/>out
+<hi>England,</hi> and the Chriſtian world! O that we <hi>could know in this our day the things which belong unto
+our peace,</hi> and publique ſafety; &amp; that <hi>they may not he hid from our eyes</hi> any longer: O that now at laſt
+we would quite abandon thoſe cuſtomary ſins, luſts, and abuſes which accompany this ſolemnity<g ref="char:punc">▪</g> 
+               <hi>from
+whence our wars and fightings come;</hi> and for which<note n="*" place="margin">Hiſt. l. 1 &amp; <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iropius. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. p. 38.</note> 
+               <hi>God hath now taken away his peace from our Land<g ref="char:punc">▪</g>
+               </hi> O
+that we would now <hi>become an</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 19. 42 <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 16. 5. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an. 8. 24 <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>holy people;</hi> and <hi>then we ſhould ſoon be a peaceable and happy people.</hi> I ſhal
+<gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
